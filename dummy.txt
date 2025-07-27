@@ -2,4 +2,3 @@ Dummy test
 More output
 Text added in branch
 Add some more text on a branch
-Add a conflict on main
